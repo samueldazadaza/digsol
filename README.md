@@ -1,5 +1,9 @@
 # digsol
-Proyect for learning fontend frameworks: VUE, TAILWIND,
+Proyect for learning fontend frameworks:
+
+⛔VUE, 
+⛔TAILWIND,
+
 
 Repositorio:
 
